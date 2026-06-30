@@ -4,3 +4,4 @@ The electrical output from the generator is fed into a bridge rectifier, which c
 A blocking diode is placed after the converter to prevent reverse current flow from the battery back to the generator, thereby protecting system components and avoiding energy loss.
 The regulated power is then supplied to the Battery Management System (BMS). The BMS continuously monitors battery parameters such as voltage, current, and temperature. It ensures safe charging, protects against over-charging, over-discharging, and thermal damage, and maintains voltage balance among battery cells.
 Finally, the conditioned and controlled energy is stored in the lithium-ion battery pack (7S2P configuration).
+The battery can be discharged using the same machine operating as motor. 
